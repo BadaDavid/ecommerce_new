@@ -50,38 +50,38 @@
 
         <h3 class=""></span> TOP BLACK FRIDAY DEALS</h3>
             <div class="container">
-                <div class="row">
-                    <div class="col-4 wow fadeInUp">
+                <div class="row items">
+                    <div class="col-md-4 wow fadeInUp">
                         <img src="img/iphone.jpg" alt="" class="" width="100%">
                         <h4 class="product">IPHONE 13</h4>
                         <div class="">N 13,000</div>
                         <div class="btn add">ADD TO CART</div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <img src="img/laptop.jpg" alt="" class="" width="100%">
                         <h4 class="product">HP PROBOOK</h4>
                         <div class="">N 20,000</div>
                         <div class="btn add">ADD TO CART</div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <img src="img/2112704.jpg" alt="" class="" width="100%" height="45%">
                         <h4 class="product">RICHARD MILLE</h4>
                         <div class="">N 13,000</div>
                         <div class="btn add">ADD TO CART</div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <img src="img/blender.jpg" alt="" class="" width="100%" height="45.5%">
                         <h4 class="product">BLENDER</h4>
                         <div class="">N 10,000</div>
                         <div class="btn add">ADD TO CART</div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <img src="img/shoe.jpg" alt="" class="" width="100%">
                         <h4 class="product">NIKE</h4>
                         <div class="">N 5,000</div>
                         <div class="btn add">ADD TO CART</div>
                     </div>
-                    <div class="col-4">
+                    <div class="col-md-4">
                         <img src="img/male cloths.jpg" alt="" class="" width="100%" height="45%">
                         <h4 class="product">MALE CLOTHS</h4>
                         <div class="">N 3,000 <span class="text-muted">each</span></div>
